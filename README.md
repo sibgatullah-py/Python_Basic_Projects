@@ -3,7 +3,7 @@
     # Objective: Create a basic calculator that can perform addition, subtraction, multiplicarion and division.
 
 ## 2. To Do application (commandline)
-    # Concepts: List, Loops, Conditionals, Basic Error Handeling.
+    # Concepts: List, Loops, Conditionals, Basic Error Handeling (Try, Except).
     # Objective: Build a CLI-Based to-do list manager where users can add, view and remove tasks.
     # Instructions: 
                 1. Set up basic strecture:-> Create and empty list to store tasks.

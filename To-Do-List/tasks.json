@@ -1,6 +1,9 @@
 {
   "tasks": [
-    {"id": 1, "title": "Buy milk", "status": false},
-    {"id": 2, "title": "Study Python", "status": true}
+    {
+      "id": 1,
+      "title": "Buy milk",
+      "status": true
+    }
   ]
 }

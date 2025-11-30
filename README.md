@@ -13,7 +13,11 @@
                 5. Remove/Complete Tasks-:-> Implement a function to delete a task based on its index or name.
                 6. Implement Exit--------:-> Allow user to exit the loop.
 
-## 3. Weather App with API (CLI) [ api.openweathermap.org ]
+## 3. REST API building ( CLI and POSTMAN )
+    # Concepts : FLASK, function, class, methods, sqlite3, librairies
+    # Objective: Build an api which can do CRUD functrion in a database using postman (postman requests will hit routes that will work on database)
+
+## 4. Weather App with API (CLI) [ api.openweathermap.org ]
     # Concepts: Libraries, APIs, JSON Parsing, Exception Handling
     # Objective: Build a weather app that fetches data from an API to display the current weather
     # Instructions: 

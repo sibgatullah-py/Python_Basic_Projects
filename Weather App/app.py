@@ -4,11 +4,10 @@ api_key = 'd191593d9e4945bebef143606250112'
 
 user_input = input("Enter city: ")
 
-weather_data = requests.get(
+response = requests.get(
     f"http://api.weatherapi.com/v1/current.json?key={api_key}&q={user_input}"
 )
 
-response = weather_data
 
 if response.status_code == 200:
     data = response.json()

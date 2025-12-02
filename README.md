@@ -32,10 +32,10 @@
     # Concepts   : File Handling, CSV Operations, Data Persistence(storing data and keeping it alive).
     # Objective  : Create a program to track expenses and income, saving data to a CSV file for future reference.
     # Instruction: 
-                1. Set Up CSV File--:-> Create a CSV file (expenses.csv) with columns for Data,Description, Category, and Amount.
-                2. Create Functions-:-> i. add_expense : Adds a new record to the CSV file.
-                                       ii. view_expense: Reads and displays data from the CSV file.
-                3. Take User Input--:-> Allow users to enter details for each expense.
-                4. Save to CSV------:-> Use Python's csv module to write entries to the file.
-                5. Read from CSV----:-> Use csv.reader to display all saved entries.
-                6. Error Handling---:-> Handle any file-related errors, such as missing files or invalid entris.
+               1. Set Up CSV File--:-> Create a CSV file (expenses.csv) with columns for Data,Description, Category, and Amount.
+               2. Create Functions-:-> i. add_expense : Adds a new record to the CSV file.
+                                      ii. view_expense: Reads and displays data from the CSV file.
+               3. Take User Input--:-> Allow users to enter details for each expense.
+               4. Save to CSV------:-> Use Python's csv module to write entries to the file.
+               5. Read from CSV----:-> Use csv.reader to display all saved entries.
+               6. Error Handling---:-> Handle any file-related errors, such as missing files or invalid entris.

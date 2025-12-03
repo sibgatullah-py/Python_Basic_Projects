@@ -1,6 +1,8 @@
 from utils import Management
 import os
 
+Management = Management()
+
 def clear(): # clear screen method
     os.system('cls' if os.name == 'nt' else 'clear')
 
